@@ -13,7 +13,7 @@ git add git_readme.txt
 git add . // add all files
 
 git rm <file>
-dd
+
 
 
 git commit -m "changes in readme" --author='sbvb <sbvb@sbvb.com.br>'
