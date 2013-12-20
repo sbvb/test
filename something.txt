@@ -1,10 +1,6 @@
 this is something file
 
-<<<<<<< HEAD
 something in windows
-=======
-sbVB from linux
->>>>>>> f31705d0a21ac2c6dc9c1e3f619151eed1f3e65d
 
 
 
