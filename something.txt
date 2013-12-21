@@ -1,6 +1,7 @@
 this is something file
 
 a text from linux
+altered in linux
 
 
 
