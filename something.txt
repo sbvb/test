@@ -1,6 +1,8 @@
 this is something file
 
 a text from linux
+Altered in windows
+
 
 
 
