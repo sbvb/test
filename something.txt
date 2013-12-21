@@ -1,6 +1,6 @@
 this is something file
 
-something in windows
+a text from linux
 
 
 
